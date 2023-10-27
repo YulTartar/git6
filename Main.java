@@ -3,5 +3,6 @@ public class Main {
         System.out.print("Это добавлено в ветке div");
         System.out.print("Это добавлено в ветке div ещё раз");
         System.out.print("Это добавлено в ветке div и ещё раз");
+        System.out.print("Это добавлено в ветке div и ещё раз");
     }
 }
